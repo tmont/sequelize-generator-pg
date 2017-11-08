@@ -1,10 +1,10 @@
 {
-	"name": "sequelize-pg-generator",
+	"name": "sequelize-generator-pg",
 	"version": "1.0.0",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tmont/sequelize-pg-generator.git"
+		"url": "https://github.com/tmont/sequelize-generator-pg.git"
 	},
 	"bin": "index.js",
 	"files": [ "index.js" ],
