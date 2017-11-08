@@ -1,4 +1,4 @@
-# sequelize-pg-generator
+# sequelize-generator-pg
 Generate [Sequelize](https://github.com/sequelize/sequelize) models
 from an existing PostgreSQL database.
 
@@ -16,7 +16,7 @@ and then extend/modify the output to fit what you want.
 
 ## Installation
 ```
-npm install sequelize-pg-generator
+npm install sequelize-generator-pg
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ directory for what it will generate.
 
 ### Example
 ```
-node_modules/.bin/sequelize-pg-generator \
+node_modules/.bin/sequelize-generator-pg \
 	--models-dir example/models \
 	--relations-file example/relations \
 	-h example.com \
